@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "yummy-nyammi": "1.0.0",
-    "tea-tools-set": "1.0.8",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
