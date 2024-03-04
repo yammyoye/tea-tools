@@ -1,6 +1,6 @@
 {
   "name": "tea-tools-set",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Tools for tea network",
   "main": "index.js",
   "scripts": {
