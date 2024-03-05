@@ -35,7 +35,6 @@ class TeaTools {
   const myTeaSet = new TeaTools('Classic Tea Set');
   
   myTeaSet.addTool('Teapot');
-  myTeaSet.addTool('Teacups');
   myTeaSet.addTool('Tea Strainer');
   
   myTeaSet.displayTools();
